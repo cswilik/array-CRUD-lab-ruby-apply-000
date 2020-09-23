@@ -4,6 +4,7 @@ end
   
 
 def create_an_array
+  [cats,dogs,birds,horses]
   
 end
 
