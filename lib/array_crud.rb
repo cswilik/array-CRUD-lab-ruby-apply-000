@@ -4,7 +4,7 @@ end
   
 
 def create_an_array
-  [cats,dogs,birds,horses]
+  ["cats","dogs","birds","horses"]
 end
 
 def add_element_to_end_of_array(array, element)
